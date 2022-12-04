@@ -1,4 +1,4 @@
-# Boot-linux-efi (cat edition)
+# Boot-linux-efi
 
 ## Install boot on Archlinux
 
