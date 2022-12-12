@@ -30,7 +30,7 @@ UseEndAnimation=true
 UseEndAnimation=true
 
 [reboot]
-UseEndAnimation=false
+UseEndAnimation=true
 
 [updates]
 SuppressMessages=true

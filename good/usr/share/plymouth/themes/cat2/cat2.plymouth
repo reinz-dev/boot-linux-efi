@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=cat2
+Description=cat2
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cat2
+ScriptFile=/usr/share/plymouth/themes/cat2-animated.script
